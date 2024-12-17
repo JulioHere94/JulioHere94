@@ -11,7 +11,6 @@ Atuo há alguns anos nas areas financeiras em segmentos como Indústria e empres
 - Automação de processos e análise de dados.
 - Desenvolvimento de Bussiness Plan.
 - Criação e manutenção de dashboard
-- 
 
 🎯 **Objetivo**: Resolver problemas complexos de forma simples e impactante através do uso de tecnologia e IA (Atuando sempre próximo a finanças).
 
@@ -41,8 +40,8 @@ Atuo há alguns anos nas areas financeiras em segmentos como Indústria e empres
 
 ## 📫 Contatos
 
-- **LinkedIn**: [linkedin.com/in/seuusuario](https://www.linkedin.com/in/julio-vivancos/)
-- **Portfólio**: [seusite.com](https://juliohere94.github.io/Portfolio_julio/)
+- **LinkedIn**: [linkedin.com/in/julio-vivancos](https://www.linkedin.com/in/julio-vivancos/)
+- **Portfólio**: [juliohere94.github](https://juliohere94.github.io/Portfolio_julio/)
 - **Email**: julioh.vivancos@gmail.com
 
 ---
