@@ -2,7 +2,9 @@
 
 ## 🌟 Sobre Mim
 
-Atuo há alguns anos nas areas financeiras em segmentos como Indústria e empresas de Tecnologias. Já concebi areas de FP&A e Pricing. Adoro as areas de dados e modelagem, porém venho vendo a mudança drastica que ocorre no mercado e me desafiei a aprender e atuar em areas de desenvolvimento (seja back-end ou front-end). Acredito que desta forma possa ser uma ponte no futuro em areás até então distintas, ou o que chamamos de: Bussiness & Techonolgy (claro não esquecemos da integração junto a IA, sendo que hoje codo com o auxilio da mesma).
+Atuo há alguns anos nas áreas financeiras, em diversos segmentos, como indústria e empresas de tecnologia. Já desenvolvi áreas de FP&A e Pricing. Sou apaixonado por dados (acredito que sejam os nossos fatos) e modelagem. Contudo, venho percebendo uma mudança drástica no mercado e, por isso, me desafiei a aprender e atuar no desenvolvimento de aplicações, seja no back-end ou no front-end.
+
+Acredito que, dessa forma, posso ser uma ponte no futuro entre áreas até então distintas, o que chamamos de Business & Technology. E claro, sem esquecer da integração com a inteligência artificial, que hoje utilizo como uma aliada no meu trabalho.
 
 💻 Atuo com:
 - Planejamento Financeiro
